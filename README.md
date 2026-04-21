@@ -25,7 +25,7 @@ Setup & Installation
 1. Get the files
 
 Bash
-git clone https://github.com/YOUR_USERNAME/WGAN-CIFAR10.git
+git clone https://github.com/yugj3323j/ATML-Lab
 cd WGAN-CIFAR10
 2. Install requirements
 
